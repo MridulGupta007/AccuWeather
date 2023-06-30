@@ -61,6 +61,11 @@ body{
     width: calc(100% - 100px);
 }
 
+.search-bar::placeholder{
+    color: #ffffe9;
+    
+}
+
 .search button:hover{
     background: white;
     color: black;
